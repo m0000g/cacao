@@ -1,0 +1,23 @@
+/* 
+	CACAO.CSS 
+	Created by: m0000g
+	Made in Venezuela with lot of flavor
+	Based on: Twitter bootstrap 3.0.1
+	November 2013
+*/
+
+body{
+	background: transparent;
+	height: 100%;
+	font-family: 'Questrial', sans-serif;
+	font-size: 1.5rem;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Questrial', sans-serif;	
+	font-weight: bold;
+}
+
+h4{
+	font-size: 2rem;
+}
